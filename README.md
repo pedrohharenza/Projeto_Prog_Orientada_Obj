@@ -52,26 +52,20 @@ o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações 
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/7_verde.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/8_verde.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/9_verde.png)
- 
     - cartas especiais REVERSO, BLOQUEIO E MAIS_2 também nas cores Vermelho, Amarelo, Azul e Verde.<br>
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/reverse_vermelho.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/bloqueio_vermelho.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/mais2_vermelho.png) <br>
-    
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/reverse_amarelo.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/bloqueio_amarelo.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/mais2_amarelo.png) <br>
-    
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/reverse_azul.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/bloqueio_azul.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/mais2_azul.png) <br>
-    
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/reverse_verde.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/bloqueio_verde.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/mais2_verde.png) <br>
-
-
-    - castas especiais WILD MAIS_4 sem cor definida <br>
+    - castas especiais WILD MAIS_4 sem cor definida<br>
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/mais4.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/wild_card.png) <br>
     
