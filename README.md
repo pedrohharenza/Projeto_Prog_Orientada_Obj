@@ -1,2 +1,3 @@
-# Projeto_Prog_Orientada_Obj
-Projeto do jogo UNO programação orientada objeto
+# Projeto Programação Orientada a Objeto\
+
+Nesse projeto foi desenvolvido o jogo UNO com objetivo de trabalhar conceitos práticos da programação orientada a objetos.
