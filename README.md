@@ -6,7 +6,7 @@ Nesse projeto foi desenvolvido um jogo UNO em C++ na interface do Qt Creator, co
 
 # Regras do Jogo
 
-Para projetar o jogo, a lógica foi baseada nas regras tradicionais do jogo UNO com algumas alterações para facilitar a implementação
+o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações para facilitar a implementação
 
 - O jogo é jogado com um baralho especial de cartas Uno.
 - O objetivo do jogo é se livrar de todas as suas cartas antes dos outros jogadores.
