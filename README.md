@@ -11,7 +11,8 @@ Nesse projeto foi desenvolvido um jogo UNO em C++ na interface do Qt Creator, co
 o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações para facilitar a implementação
 
 - O jogo é jogado com um baralho especial de cartas Uno.
-    - cartas de 0 a 9 nas cores Vermelho, Amarelo, Azul e Verde. /![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/0_amarelo.png) 
+    - cartas de 0 a 9 nas cores Vermelho, Amarelo, Azul e Verde. <br>
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/0_amarelo.png) 
     - cartas especiais REVERSO, BLOQUEIO E MAIS_2 também nas cores Vermelho, Amarelo, Azul e Verde.
     - castas especiais WILD MAIS_4 sem cor definida
 - O objetivo do jogo é se livrar de todas as suas cartas antes dos outros jogadores.
