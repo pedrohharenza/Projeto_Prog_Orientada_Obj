@@ -9,6 +9,9 @@ Nesse projeto foi desenvolvido um jogo UNO em C++ na interface do Qt Creator, co
 o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações para facilitar a implementação
 
 - O jogo é jogado com um baralho especial de cartas Uno.
+    - cartas de 0 a 9 nas cores Vermelho, Amarelo, Azul e Verde.
+    - cartas especiais REVERSO, BLOQUEIO E MAIS_2 também nas cores Vermelho, Amarelo, Azul e Verde.
+    - castas especiais WILD MAIS_4 sem cor definida
 - O objetivo do jogo é se livrar de todas as suas cartas antes dos outros jogadores.
 - O jogo começa com cada jogador recebendo 7 cartas. O restante das cartas forma o "deck" no centro da mesa, com a carta de topo virada para cima e colocada na mesa.
 - O jogador 1 começa o jogo.
@@ -19,6 +22,7 @@ o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações 
   - Cartas de "BLOQUEAR" fazem com que o próximo jogador seja "pulado".
   - Cartas de "MAIS 2" obrigam o próximo jogador a comprar duas cartas.
   - Cartas de "WILD" podem ser jogadas em qualquer momento e vale como qualquer cor, o próximo jogador pode jogar uma carta de qualquer cor (diferente do uno tradicional que o próprio jogador escolhe a cor da carta WILD).
-  - Quando um jogador estiver prestes a ter apenas uma carta na mão, ele deve apertar no botão "Uno" para alertar os outros jogadores. Se um jogador esquecer de dizer "Uno", ele deve comprar quatro cartas como penalidade.
+  - Cartas de "MAIS 4" obrigam o próximo jogador a comprar quatro cartas e equivalem a qualquer cor assim como a carta "WILD".
+- Quando um jogador estiver prestes a ter apenas uma carta na mão, ele deve apertar no botão "Uno" para alertar os outros jogadores. Se um jogador esquecer de dizer "Uno", ele deve comprar quatro cartas como penalidade.
 - O jogo continua até que um jogador se livre de todas as suas cartas. Esse jogador é declarado o vencedor da rodada e recebe pontos de acordo com as cartas que os outros jogadores ainda têm em suas mãos.
 - Caso o deck acabe, o jogador com o menor número de cartas é declarado vencedor.
