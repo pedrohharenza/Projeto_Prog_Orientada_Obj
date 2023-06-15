@@ -11,8 +11,7 @@ Nesse projeto foi desenvolvido um jogo UNO em C++ na interface do Qt Creator, co
 o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações para facilitar a implementação
 
 - O jogo é jogado com um baralho especial de cartas Uno.
-    - cartas de 0 a 9 nas cores Vermelho, Amarelo, Azul e Verde.
-  <br>
+    - cartas de 0 a 9 nas cores Vermelho, Amarelo, Azul e Verde.<br>
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/0_vermelho.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/1_vermelho.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/2_vermelho.png)
@@ -22,8 +21,7 @@ o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações 
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/6_vermelho.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/7_vermelho.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/8_vermelho.png)
-    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/9_vermelho.png)
-<br>
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/9_vermelho.png) <br>
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/0_amarelo.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/1_amarelo.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/2_amarelo.png)
@@ -33,8 +31,7 @@ o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações 
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/6_amarelo.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/7_amarelo.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/8_amarelo.png)
-    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/9_amarelo.png)
-<br>
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/9_amarelo.png) <br>
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/0_azul.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/1_azul.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/2_azul.png)
