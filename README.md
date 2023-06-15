@@ -41,7 +41,17 @@ o jogo foi baseado nas regras tradicionais do jogo UNO com algumas alterações 
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/6_azul.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/7_azul.png)
     ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/8_azul.png)
-    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/9_azul.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/9_azul.png) <br>
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/0_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/1_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/2_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/3_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/4_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/5_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/6_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/7_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/8_verde.png)
+    ![alt text](https://github.com/pedrohharenza/Projeto_Prog_Orientada_Obj/blob/main/Projeto_Orientada/img/9_verde.png)
  
     - cartas especiais REVERSO, BLOQUEIO E MAIS_2 também nas cores Vermelho, Amarelo, Azul e Verde.
     - castas especiais WILD MAIS_4 sem cor definida
